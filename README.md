@@ -1,4 +1,4 @@
-# **Plugin Name** Plugin
+# **Challenges** Plugin
 
 **Plugin Summary**
 
